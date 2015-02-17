@@ -74,6 +74,9 @@ activate :livereload
 # Pretty URLs (ex - about.html -> /about/)
 activate :directory_indexes
 
+# Uses .env in the root of the project
+activate :dotenv
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper

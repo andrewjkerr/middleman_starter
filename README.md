@@ -26,6 +26,8 @@ My starting Middleman blog configuration based on a [Thoughtbot article](http://
 git clone https://github.com/andrewjkerr/middleman_starter.git
 ```
 
-2. Run `bundle install`.
+2. Change the values in `.env` as you wish.
 
-3. Run `middleman`!
+3. Run `bundle install`.
+
+4. Run `middleman`!
