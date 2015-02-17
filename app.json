@@ -1,0 +1,6 @@
+{
+  "name": "Andrew Kerr's Middleman Starter",
+  "description": "A starting template for blogging with Middleman",
+  "repository": "https://github.com/andrewjkerr/middleman_starter",
+  "keywords": ["middleman", "slim", "static"]
+}
