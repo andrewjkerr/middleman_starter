@@ -6,7 +6,7 @@ My starting Middleman blog configuration based on a [Thoughtbot article](http://
 
 ##Current Defaults
 
-- Ruby 2.1.5
+- Ruby 2.2.0
 - Middleman 3.3.8
 - Slim for templates
 - Sass for stylesheets
