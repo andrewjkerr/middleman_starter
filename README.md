@@ -2,6 +2,8 @@
 
 My starting Middleman blog configuration based on a [Thoughtbot article](http://robots.thoughtbot.com/middleman-bourbon-walkthrough) as well as some of my own preferences. An ever-changing work in progress.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/andrewjkerr/middleman_starter)
+
 ##Current Defaults
 
 - Ruby 2.1.5
