@@ -7,6 +7,9 @@
 set :site_title, "My Blog"
 set :site_url, "http://andrewjkerr.com/middleman_starter"
 
+# Site not in root folder? Set this to true.
+set :relative_links, true
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   blog.prefix = "blog"

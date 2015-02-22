@@ -12,7 +12,7 @@ My starting Middleman blog configuration based on a [Thoughtbot article](http://
 - Sass for stylesheets
 - Coffeescript for javascript-y type things
 - Bourbon, Bitters, and Neat for styling
-- Heroku for deployment
+- GitHub Pages for deployment
 
 ##Dependencies
 
@@ -49,7 +49,3 @@ git remote add origin https://github.com/user/repo.git
 3. `middleman build`
 
 4. `middleman deploy`
-
-##Known Issues
-
-1. Middleman site _must_ be the root. Currently working on a fix.
