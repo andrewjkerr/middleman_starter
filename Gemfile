@@ -19,6 +19,10 @@ gem 'bourbon', '~> 4.2.0'
 gem 'neat', '~> 1.7.1'
 gem 'middleman-dotenv', '~> 1.1.1'
 
+# Syntax highlughting
+gem 'middleman-syntax', '~> 2.0.0'
+gem 'redcarpet', '~> 3.2.2'
+
 group :development do
   gem "middleman-livereload", "~> 3.1.1"
 end
